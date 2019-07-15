@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-demo: [https://aflat.reharmonize.art/tic-tac-toe/index.html](https://aflat.reharmonize.art/tic-tac-toe/index.html)
+demo: [https://aflat.reharmonize.art/tic-tac-toe/index.html](https://aflat.reharmonize.art/tic-tac-toe/index.html){:target="_blank"}
 
 ## Available Scripts
 
