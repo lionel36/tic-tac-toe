@@ -4,3 +4,4 @@ upload-script.sh
 yarn.lock
 .git/
 .idea/
+build/
