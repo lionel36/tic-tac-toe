@@ -3,3 +3,4 @@ node_modules/
 upload-script.sh
 yarn.lock
 .git/
+.idea/
